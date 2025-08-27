@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/seif-zayed-a32a3b242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-zayed-a32a3b242/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h3>
 
 ### Frontend & Web Development
 <p align="left">
@@ -25,8 +25,6 @@
   </a>
 </p>
 <br>
-
----
 
 ### Backend & Servers
 <p align="left">
@@ -45,8 +43,6 @@
 </p>
 <br>
 
----
-
 ### Databases
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -57,8 +53,6 @@
   </a>
 </p>
 <br>
-
----
 
 ### Mobile & Game Development
 <p align="left">
@@ -73,8 +67,6 @@
   </a>
 </p>
 <br>
-
----
 
 ### DevOps & Cloud
 <p align="left">
@@ -92,8 +84,6 @@
   </a>
 </p>
 <br>
-
----
 
 ### Other Tools & Languages
 <p align="left">
