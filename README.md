@@ -1,13 +1,11 @@
 <h1 align="center">Hi, I'm Seif Zayed</h1>
 <h3 align="center">A versatile software developer with a broad range of skills and a passion for learning new tools.</h3>
 
-- 🌱 I’m currently learning **Docker and kubernetes**
-
 - 📫 How to reach me **zayed.seifeldin@gmail.com**
 
-- 💬 Connect with me on Discord: **douvakiing**
-
 - 🌐 Check out my portfolio: [douvakiing.github.io](https://douvakiing.github.io/)
+
+- 💬 Connect with me on Discord: **douvakiing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
